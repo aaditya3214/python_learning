@@ -26,5 +26,5 @@ Twinkle, twinkle, little star.''')
 import pydantic 
 import pyttsx3
 engine = pyttsx3.init()
-engine.say("Money follows my brothers")
+engine.say("Light is a form of energy. Light is needed to see things around us. We are able to see the beautiful world around us because of Light")
 engine.runAndWait()
